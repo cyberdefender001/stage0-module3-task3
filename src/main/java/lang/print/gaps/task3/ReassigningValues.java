@@ -11,7 +11,7 @@ public class ReassigningValues {
         
         int linkToFirst = first;
         int linkToSecond = second;
-        int linkToThird = thrird;
+        int linkToThird = third;
         
         first = 15;
         second = 6;
